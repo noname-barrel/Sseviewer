@@ -193,4 +193,4 @@ This repository serves as the official landing page for SSEviewer. The software 
 **Get the most recent version of SSEviewer today!**
 
 ---
-**Last updated:** 2026-11-13 05:44:04 UTC
+**Last updated:** 2026-11-13 14:12:30 UTC
